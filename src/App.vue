@@ -1,8 +1,7 @@
 <template>
   <div
     :style="{
-      'background-image':
-        'url(https://images-americanas.b2w.io/produtos/1809530090/imagens/camisa-flamengo-isso-aqui-e-flamengo-exg/1809530090_1_xlarge.jpg',
+      'background-image': 'url(https://wallpapercave.com/wp/wp1834381.jpg',
     }"
   >
     <div>
