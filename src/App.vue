@@ -2,7 +2,7 @@
   <div
     :style="{
       'background-image':
-        'url(https://www.wallpapertip.com/wmimgs/163-1637188_wallpaper-flamengo-celular.png)',
+        'url(https://images-americanas.b2w.io/produtos/1809530090/imagens/camisa-flamengo-isso-aqui-e-flamengo-exg/1809530090_1_xlarge.jpg',
     }"
   >
     <div>
